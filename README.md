@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Breno 👋
+
+I'm a Machine Learning Engineer/Data Scientist and author.
+
+🚧 Work in Progress 🚧
+
+📚Books
+I wrote [my own book](https://bitcoin101.site) and translated several others others, such as [The Bitcoin Standard](https://amzn.to/3UZ885W). You cand find the complete list [here](https://www.amazon.com.br/stores/author/B083587K5W).
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/brenorb?label=Follow&style=social)](https://twitter.com/brenorb)
 
 <!--
 **brenorb/brenorb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
