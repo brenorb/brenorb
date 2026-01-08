@@ -10,6 +10,18 @@ I wrote [my own book](https://bitcoin101.site) and translated several others oth
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/brenorb?label=Follow&style=social)](https://twitter.com/brenorb)
 
+### What I'm into
+
+- AI engineering (LLMs, RAG, and agentic systems)
+- Bitcoin (education, developer communities, and protocol research)
+- Quant finance / applied data science
+
+### Highlights
+
+- I work at the intersection of **AI + Bitcoin + Finance**, building and deploying real systems.
+- I write at [brenorb.com](https://brenorb.com) and maintain projects like [bitcoin101.site](https://bitcoin101.site).
+- I help organize/participate in **Brasília BitDevs** ([bitdevs.bsb.br](https://bitdevs.bsb.br)).
+
 <!--
 **brenorb/brenorb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
