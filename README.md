@@ -4,6 +4,12 @@ I'm a Machine Learning Engineer/Data Scientist and author.
 
 🚧 Work in Progress 🚧
 
+### 🔎 Focus
+
+AI / LLMs (agents, RAG, eval), Bitcoin (education + dev community), and quant finance.
+
+I write at https://brenorb.com and host Brasília BitDevs: https://bitdevs.bsb.br
+
 ### 📚Books
 
 I wrote [my own book](https://bitcoin101.site) and translated several others others, such as [The Bitcoin Standard](https://amzn.to/3UZ885W). You cand find the complete list [here](https://www.amazon.com.br/stores/author/B083587K5W).
