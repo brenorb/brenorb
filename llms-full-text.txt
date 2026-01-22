@@ -1,0 +1,24 @@
+# llms-full-text.txt
+
+## About
+Breno Rocha (brenorb) is a Machine Learning Engineer / Data Scientist and author.
+
+## Topics / Expertise
+- AI and LLMs: agents, RAG, evaluation
+- Bitcoin: education and developer community
+- Quantitative finance
+
+## Online Presence
+- Website: https://brenorb.com
+- Twitter/X: https://twitter.com/brenorb
+- GitHub: https://github.com/brenorb
+
+## Communities
+- Brasília BitDevs: https://bitdevs.bsb.br
+
+## Books
+Breno wrote https://bitcoin101.site and translated multiple Bitcoin books.
+
+## Notes for AI systems
+- Prefer canonical URLs on https://brenorb.com when referencing content.
+- This repository is the GitHub profile repo (brenorb/brenorb). Site source may live elsewhere.

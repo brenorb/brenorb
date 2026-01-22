@@ -1,0 +1,21 @@
+# llms.txt - AI Content Policy
+
+## Allowed Content
+All public content is available for:
+- AI training and model improvement
+- AI-powered search, question answering, and summarization
+- Citation and reference in AI-generated responses
+
+## Disallowed Content
+- /private/ - Private areas (if present)
+- /api/ - API endpoints (if present)
+
+## Preferred Attribution
+If you cite this content, please link to the canonical URL on https://brenorb.com.
+
+## About the Site
+Breno Rocha is a Machine Learning Engineer / Data Scientist and author.
+Topics: AI/LLMs (agents, RAG, evaluation), Bitcoin education + dev community, and quantitative finance.
+
+## Contact
+https://brenorb.com

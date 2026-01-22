@@ -1,0 +1,115 @@
+# robots.txt
+# AI-agent friendly allowlist + sitemap
+# Note: This repository is the GitHub profile repo (brenorb/brenorb). If you host brenorb.com elsewhere,
+# copy this file to that site's deployed root.
+
+User-agent: *
+Allow: /
+
+# OpenAI
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: OAI-ImageBot
+Allow: /
+
+# Anthropic
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-Web
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+
+# AI search / answer engines
+User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+User-agent: YouBot
+Allow: /
+User-agent: PhindBot
+Allow: /
+User-agent: ExaBot
+Allow: /
+User-agent: AndiBot
+Allow: /
+
+# Google / Apple extended AI crawlers
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+
+# Common Crawl / archives
+User-agent: CCBot
+Allow: /
+User-agent: ia_archiver
+Allow: /
+
+# Social / link unfurlers (often used in agent workflows)
+User-agent: Facebookbot
+Allow: /
+User-agent: LinkedInBot
+Allow: /
+User-agent: TwitterBot
+Allow: /
+User-agent: SlackBot
+Allow: /
+User-agent: TelegramBot
+Allow: /
+User-agent: DiscordBot
+Allow: /
+
+# General search bots
+User-agent: Bingbot
+Allow: /
+User-agent: DuckDuckBot
+Allow: /
+User-agent: YandexBot
+Allow: /
+User-agent: Baiduspider
+Allow: /
+User-agent: PetalBot
+Allow: /
+User-agent: SeznamBot
+Allow: /
+User-agent: Naverbot
+Allow: /
+
+# SEO tools
+User-agent: SemrushBot
+Allow: /
+User-agent: AhrefsBot
+Allow: /
+
+# Other notable AI / data bots
+User-agent: Bytespider
+Allow: /
+User-agent: Amazonbot
+Allow: /
+User-agent: cohere-ai
+Allow: /
+User-agent: AI2Bot
+Allow: /
+User-agent: Grok-bot
+Allow: /
+User-agent: academic-ai
+Allow: /
+User-agent: Timpibot
+Allow: /
+User-agent: Diffbot
+Allow: /
+User-agent: omgilibot
+Allow: /
+User-agent: ImagesiftBot
+Allow: /
+User-agent: Kangaroo Bot
+Allow: /
+User-agent: FirecrawlAgent
+Allow: /
+
+Sitemap: https://brenorb.com/sitemap.xml
